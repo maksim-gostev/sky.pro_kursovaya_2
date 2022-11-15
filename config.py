@@ -1,0 +1,1 @@
+LINK_LIST_URL ='https://www.jsonkeeper.com/b/Z252'
